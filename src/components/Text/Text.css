@@ -1,0 +1,15 @@
+.Text-basic {
+    margin: 12px 0;
+}
+
+.Text-basic input {
+    width: 550px;
+    height: 40px;
+    
+    border: none;
+    font-size: 18px;
+    padding: 2px;
+
+    box-shadow: 10px 10px 30px rgba(0, 0, 0.06);
+
+}
