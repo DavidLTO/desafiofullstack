@@ -2,7 +2,7 @@
 
 Projeto: Desafio Full Stack
 
-Criado com Create React App e SWAPI.
+Criado com React e SWAPI.
 
 Clone o repositório
 Instale o Axios e Request
